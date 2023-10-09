@@ -20,6 +20,11 @@
 ### 1. Somente 10 tentativas.
 ### 2. Apenas úmeros de 0 a 100.
 ## <br>
-##### Nota de rodápé: <br> Meu objetivo foi treinar a sintaxe em javascript juntamente a lógica da linguagem, exercicio para o inglês e aprender um pouco de CSS. 😀
+## Como jogar.
+### Abra o arquivo HTML
+## <br>
+### Ultilize a entrada de texto para inserir suas tentativas e confie na sua sorte! 🤭 O jogo te fornecerá dicas para facilitar o acerto, caso o número estiver a cima do número esperado ele te retornará que o mesmo é alto demais, caso esteja abaixo ele retornará que o mesmo é muito baixo.
+[![demo](https://i.imgur.com/DeDPmzf.png)]
+##### Nota de rodápé: <br> Meu objetivo foi treinar a sintaxe em javascript juntamente a lógica da linguagem, exercicio para o inglês e aprender um pouco de CSS. 😀 (Em andamento)
 
 
